@@ -1,4 +1,37 @@
 .header{
     text-align: center;
-    color: rgb(75, 104, 104);
+    color: rgb(102, 167, 152);
+    border: solid 100px;
+    border-color: rgb(238, 204, 190);
+    background-color: rgb(238, 204, 190);
+    text-shadow: 16px rgb(105, 78, 66);
+    font-size: 100px;
+}
+body{
+    background-color: rgb(200, 230, 218);
+}
+.mot {
+color: rgb(143, 91, 75);
+background-color: rgb(238, 204, 190);
+
+}
+.pro {
+    color: rgb(143, 91, 75);
+    background-color: rgb(238, 204, 190);
+}
+.oper {
+    color: rgb(143, 91, 75);
+    background-color: rgb(238, 204, 190);
+}
+.cool {
+    color: rgb(143, 91, 75);
+    background-color: rgb(238, 204, 190);
+}
+.disk {
+    color: rgb(143, 91, 75);
+    background-color: rgb(238, 204, 190);
+}
+.vid {
+    color: rgb(143, 91, 75);
+    background-color: rgb(238, 204, 190);
 }
